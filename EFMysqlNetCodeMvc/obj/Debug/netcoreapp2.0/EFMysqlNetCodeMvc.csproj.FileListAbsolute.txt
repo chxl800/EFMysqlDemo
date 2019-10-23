@@ -1,0 +1,11 @@
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\bin\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.deps.json
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\bin\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.runtimeconfig.json
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\bin\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.runtimeconfig.dev.json
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\bin\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.dll
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\obj\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.csprojResolveAssemblyReference.cache
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\obj\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.csproj.CoreCompileInputs.cache
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\obj\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.AssemblyInfoInputs.cache
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\obj\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.AssemblyInfo.cs
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\bin\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.pdb
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\obj\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.dll
+F:\datum\net\EFMysqlDemo\EFMysqlNetCodeMvc\obj\Debug\netcoreapp2.0\EFMysqlNetCodeMvc.pdb
